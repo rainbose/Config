@@ -1,4 +1,6 @@
 # NAME: Crypto
 
 payload:
-  - DOMAIN-SUFFIX,xiom.trade
+  - DOMAIN-SUFFIX,axiom.trade
+  - DOMAIN,axiom.trade
+  - DOMAIN-KEYWORD,axiom
