@@ -1,7 +1,6 @@
 # NAME: Crypto
 
-payload:
-  - DOMAIN-SUFFIX,gmgn.ai
-  - DOMAIN-SUFFIX,axiom.trade
-  - DOMAIN,axiom.trade
-  - DOMAIN-KEYWORD,axiom
+DOMAIN-SUFFIX,gmgn.ai 
+DOMAIN-SUFFIX,axiom.trade
+DOMAIN,axiom.trade
+DOMAIN-KEYWORD,axiom
