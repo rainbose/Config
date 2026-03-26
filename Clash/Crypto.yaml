@@ -1,6 +1,8 @@
 # NAME: Crypto
+# AUTHOR: rainbose
+# FORMAT: Surge Rule Set
 
-DOMAIN-SUFFIX,gmgn.ai 
+DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,axiom.trade
 DOMAIN,axiom.trade
 DOMAIN-KEYWORD,axiom
